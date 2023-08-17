@@ -11,8 +11,8 @@ import Body from './components/Body';
          <Body />
       </div>
      
-    )
-  }
+    );
+  };
 
   const root = ReactDOM.createRoot(document.getElementById("root"));
   
